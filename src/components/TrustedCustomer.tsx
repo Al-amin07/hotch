@@ -1,6 +1,6 @@
 import Image from "next/image"
 
-import img2 from '@/assets/image (3).png'
+
 import img3 from '@/assets/Card 1.png'
 import img4 from '@/assets/Frame 1136abcf.png'
 import { outfit } from "./font"
